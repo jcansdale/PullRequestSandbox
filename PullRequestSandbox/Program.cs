@@ -10,6 +10,6 @@ namespace PullRequestSandbox
     {
         static void Main(string[] args)
         {
-        }
+        } // pull onto deleted branch
     }
 }
